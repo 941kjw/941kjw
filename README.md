@@ -3,15 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-941kjws-projects.vercel.app/api?username=941kjw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-941kjws-projects.vercel.app/api/top-langs?username=941kjw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-941kjws-projects.vercel.app/api?username=941kjw&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-941kjws-projects.vercel.app/api/top-langs?username=941kjw&locale=en&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="150" alt="languages graph"  />
 </div>
 
-### 
-
-<div align="center">  
+###
+<div align="center">
   
-![941kjw's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jawonkoo)
+![Solved.ac Profile](https://mazassumnida.wtf/api/generate_badge?boj=jawonkoo)
 </div>
 
 ###
