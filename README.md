@@ -10,7 +10,7 @@
 ###
 <div align="center">
   
-![Solved.ac Profile](https://mazassumnida.wtf/api/generate_badge?boj=jawonkoo)
+![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jawonkoo)
 </div>
 
 ###
