@@ -15,7 +15,8 @@
 
 ###
 
-<div align="center">
+<div>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 My Skills</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
@@ -35,7 +36,8 @@
 
 ###
 
-<div align="left">
+<div>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Contact </h2> <br>
   <a href="mousehunterkoo@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
