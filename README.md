@@ -1,21 +1,12 @@
 ## 📚 My Skills
 
-<style>
-  .skill-icon {
-    height: 28px;
-    width: 28px;
-    margin-right: 8px;
-    vertical-align: middle;
-  }
-</style>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" class="skill-icon" alt="java logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" class="skill-icon" alt="spring logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" class="skill-icon" alt="cplusplus logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" class="skill-icon" alt="mysql logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" class="skill-icon" alt="aws logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" class="skill-icon" alt="redis logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" class="skill-icon" alt="rabbitmq logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:28px; width:28px; margin-right:8px; vertical-align:middle;" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="height:28px; width:28px; margin-right:8px; vertical-align:middle;" alt="spring logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:28px; width:28px; margin-right:8px; vertical-align:middle;" alt="cplusplus logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:28px; width:28px; margin-right:8px; vertical-align:middle;" alt="mysql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="height:28px; width:28px; margin-right:8px; vertical-align:middle;" alt="aws logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="height:28px; width:28px; margin-right:8px; vertical-align:middle;" alt="redis logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" style="height:28px; width:28px; margin-right:8px; vertical-align:middle;" alt="rabbitmq logo"/>
 
 ---
 
@@ -38,14 +29,4 @@
 ## 📚 Work Experience
 
 - **FlatMusic** (2024.02 ~ 2025.01)
-  - AWS 아키텍처 구축
-  - 백엔드 서버 개발
-  - 관제 시스템 구현
-
----
-
-## 📚 Project
-
-- **실시간 채팅 + yatch dice 게임**
-- **실시간 1:1 화상 랜덤 채팅 서비스**
-- **FlatMusic 백엔드 시스템**
+  - AWS
