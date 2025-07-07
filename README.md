@@ -1,3 +1,20 @@
+<h2 align="left">Hi 👋! My name is Jawon Koo</h2>
+
+###
+
+<div align="center">
+<img src="https://github-readme-stats-941kjws-projects.vercel.app/api?username=941kjw&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en" height="150" alt="stats graph" />
+<img src="https://github-readme-stats-941kjws-projects.vercel.app/api/top-langs?username=941kjw&locale=en&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="150" alt="languages graph" />
+</div>
+
+###
+<div align="center">
+
+![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jawonkoo)
+</div>
+
+###
+
 ## 📚 My Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" width="28" alt="java" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" width="28" alt="spring" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" width="28" alt="cplusplus" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="28" alt="mysql" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="28" width="28" alt="aws"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="28" width="28" alt="redis"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="28" width="28" alt="rabbitmq"/>
