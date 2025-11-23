@@ -8,7 +8,7 @@
 
 **Backend Engineer**로서 항상 성능에 대해 고민하고<br/>
 **Spring Boot**를 기반으로 협업하기 좋은 코드를 작성하며,<br/>
-**AWS** 기반 확장 가능하고 안정적인 자동화 아키텍쳐을 설계합니다.
+**AWS** 기반 확장 가능하고 안정적이며 자동화된 아키텍쳐를 설계합니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousehunterkoo@gmail.com)
 [![Solved.ac Profile](https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=solved.ac&logoColor=white)](https://solved.ac/jawonkoo)
@@ -49,6 +49,7 @@
 
 ### Database & Cache
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -74,7 +75,7 @@
 ### 🍜 LastNyam - 신선식품 마감 전 재고 할인 판매 / 이벤트성 선착순 제공 플랫폼
 **2025.10 ~ 2025.11 | SSAFY 자율 프로젝트 팀장**
 
-`Spring Boot` `Kubernetes` `AWS` `Kafka` `Redis` `PostgreSQL` `ArgoCD` `Prometheus`
+`Spring Boot` `Kubernetes` `AWS` `Kafka` `Redis` `PostgreSQL` `ArgoCD` `Keda` `Jenkins` `Prometheus` `Grafana`
 
 - **선착순 구매 이벤트 시스템(푸켓팅)** 설계 및 구현
 - **MSA 아키텍처** 기반 마이크로서비스 설계 (고객/사장님/퍼블리셔/메시징 서비스)
@@ -83,6 +84,15 @@
 - **PostgreSQL + PostGIS** 활용 지리 기반 쿼리 최적화
 - **CI/CD 파이프라인** 구축 (Jenkins + ArgoCD)
 - **Prometheus + Grafana** 기반 모니터링 시스템 구축
+
+### 🎞️ Cinemoa - 크라우드 펀딩 기반 영화관 대관 참여자 모집 및 결제,대관 신청 대행 플랫폼
+**2025.09 ~ 2025.10 | SSAFY 특화 프로젝트 팀장**
+
+`Spring Boot` `Docker` `AWS` `Redis` `MySQL` `Jenkins` `Prometheus`
+
+- **비관적 락 기반 좌석 점유** 설계 및 구현
+- **CI/CD 파이프라인** 구축 (Jenkins)
+- **세션 기반 OIDC 방식 OAuth2.0** 인증 구현 (Spring Security)
 
 ### 🎵 FlatMusic - AI 기반 음악 전사 / 채점 및 피드백 서비스
 **2023.02 ~ 2024.10 | Backend Developer / Infra**
@@ -93,24 +103,6 @@
 - AI 음악 전사 및 이미지 처리 파이프라인 **백엔드 API** 개발
 - **RabbitMQ** 기반 비동기 작업 처리 시스템 구현
 - **실시간 관제 시스템** 개발 및 모니터링 대시보드 구축
-
-### 🎲 실시간 채팅 + Yacht Dice 게임
-**SSAFY 프로젝트**
-
-`Spring Boot` `WebSocket` `Redis` `MySQL`
-
-- **WebSocket** 기반 실시간 채팅 시스템 구현
-- Yacht Dice 게임 로직 설계 및 개발
-- **Redis Pub/Sub** 활용 다중 채팅방 관리
-
-### 📹 실시간 1:1 화상 랜덤 채팅 서비스
-**SSAFY 프로젝트**
-
-`Spring Boot` `WebRTC` `Redis` `MySQL`
-
-- **WebRTC** 기반 1:1 화상 채팅 기능 구현
-- 랜덤 매칭 알고리즘 설계 및 개발
-- 실시간 연결 상태 관리 시스템 구축
 
 ---
 
