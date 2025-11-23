@@ -38,6 +38,8 @@
 
 ---
 
+<br/>
+
 ## 🛠️ Tech Stack
 
 ### Backend & Language
@@ -69,6 +71,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -85,6 +88,9 @@
 - **CI/CD 파이프라인** 구축 (Jenkins + ArgoCD)
 - **Prometheus + Grafana** 기반 모니터링 시스템 구축
 
+<br/>
+
+  
 ### 🎞️ Cinemoa - 크라우드 펀딩 기반 영화관 대관 참여자 모집 및 결제,대관 신청 대행 플랫폼
 **2025.09 ~ 2025.10 | SSAFY 특화 프로젝트 팀장**
 
@@ -93,6 +99,8 @@
 - **비관적 락 기반 좌석 점유** 설계 및 구현
 - **CI/CD 파이프라인** 구축 (Jenkins)
 - **세션 기반 OIDC 방식 OAuth2.0** 인증 구현 (Spring Security)
+
+<br/>
 
 ### 🎵 FlatMusic - AI 기반 음악 전사 / 채점 및 피드백 서비스
 **2023.02 ~ 2024.10 | Backend Developer / Infra**
@@ -106,6 +114,8 @@
 
 ---
 
+<br/>
+
 ## 💼 Work Experience
 
 ### FlatMusic | Backend Developer / Infra
@@ -118,6 +128,8 @@
 - RabbitMQ 기반 비동기 작업 처리 시스템 구축
 
 ---
+
+<br/>
 
 ## 🎓 Education
 
