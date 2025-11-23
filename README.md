@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250§ion=header&text=Jawon%20Koo&fontSize=80&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Cloud%20%26%20Kubernetes%20Enthusiast&descSize=20&descAlignY=55&animation=fadeIn)
-
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Jawon%20Koo&fontSize=80&fontAlignY=35&desc=Backend%20Engineer%20|Infra%20Engineer&descSize=20&descAlignY=55&animation=fadeIn)
+
+
 
 ### 👨‍💻 About Me
 
-**Backend Engineer**로서 **Spring Boot**와 **MSA 아키텍처**를 기반으로  
-**Kubernetes**, **AWS** 인프라를 다루며 확장 가능한 시스템을 설계합니다.
-
-현재 **SSAFY 13기**에서 팀 리더로 활동 중이며,  
-실시간 이벤트 기반 서비스 개발에 집중하고 있습니다.
+**Backend Engineer**로서 항상 성능에 대해 고민하고<br/>
+**Spring Boot**를 기반으로 협업하기 좋은 코드를 작성하며,<br/>
+**AWS** 기반 확장 가능하고 안정적인 자동화 아키텍쳐을 설계합니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousehunterkoo@gmail.com)
 [![Solved.ac Profile](https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=solved.ac&logoColor=white)](https://solved.ac/jawonkoo)
@@ -71,12 +71,12 @@
 
 ## 🚀 Featured Projects
 
-### 🍜 [LastNyam - 실시간 푸드 딜리버리 플랫폼](링크추가)
-**2025.10 ~ 2025.11 | SSAFY 최종 프로젝트 팀장**
+### 🍜 LastNyam - 신선식품 마감 전 재고 할인 판매 / 이벤트성 선착순 제공 플랫폼
+**2025.10 ~ 2025.11 | SSAFY 자율 프로젝트 팀장**
 
 `Spring Boot` `Kubernetes` `AWS` `Kafka` `Redis` `PostgreSQL` `ArgoCD` `Prometheus`
 
-- **동시 구매 이벤트 시스템(푸켓팅)** 설계 및 구현
+- **선착순 구매 이벤트 시스템(푸켓팅)** 설계 및 구현
 - **MSA 아키텍처** 기반 마이크로서비스 설계 (고객/사장님/퍼블리셔/메시징 서비스)
 - **Kubernetes 클러스터** 구축 및 **KEDA** 기반 HPA 구현
 - **Kafka** 기반 이벤트 드리븐 아키텍처 구축
@@ -84,16 +84,15 @@
 - **CI/CD 파이프라인** 구축 (Jenkins + ArgoCD)
 - **Prometheus + Grafana** 기반 모니터링 시스템 구축
 
-### 🎵 FlatMusic - AI 음악 전사 서비스
-**2024.02 ~ 2025.01 | Backend Developer**
+### 🎵 FlatMusic - AI 기반 음악 전사 / 채점 및 피드백 서비스
+**2023.02 ~ 2024.10 | Backend Developer / Infra**
 
 `Spring Boot` `AWS` `RabbitMQ` `Redis` `MySQL`
 
-- **AWS 아키텍처** 설계 및 구축 (EC2, RDS, S3, CloudFront)
-- AI 음악 전사 및 이미지 처리 **백엔드 API** 개발
+- **AWS 아키텍처** 설계 및 구축 (EC2, S3)
+- AI 음악 전사 및 이미지 처리 파이프라인 **백엔드 API** 개발
 - **RabbitMQ** 기반 비동기 작업 처리 시스템 구현
 - **실시간 관제 시스템** 개발 및 모니터링 대시보드 구축
-- **Redis** 기반 캐싱 전략 수립 및 성능 최적화
 
 ### 🎲 실시간 채팅 + Yacht Dice 게임
 **SSAFY 프로젝트**
@@ -117,8 +116,8 @@
 
 ## 💼 Work Experience
 
-### FlatMusic | Backend Developer
-**2024.02 ~ 2025.01**
+### FlatMusic | Backend Developer / Infra
+**2023.02 ~ 2024.10**
 
 - AWS 클라우드 인프라 아키텍처 설계 및 운영
 - Spring Boot 기반 백엔드 서버 개발
@@ -131,10 +130,16 @@
 ## 🎓 Education
 
 ### 삼성 청년 소프트웨어 아카데미 (SSAFY) 13기
-**2025.01 ~**
-- 최종 프로젝트 팀장 (LastNyam)
-- 풀스택 개발 및 MSA 아키텍처 학습
+**2025.01 ~ 2025.12**
+- 자율 프로젝트 팀장 (LastNyam)
+- 특화 프로젝트 팀장 (Cinemoa)
+- Spring boot 기반 백엔드, CI/CD 및 MSA 아키텍처 학습
 
 ### 인하대학교 컴퓨터공학부
 **2017.02 ~ 2023.02**
-- 컴퓨터공학
+- 컴퓨터공학부 학사
+
+<div align="center">
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=footer&fontSize=80&fontAlignY=35&desc=Thank%20you%20for%20watching!&descSize=20&descAlignY=55&animation=fadeIn)
+</div>
