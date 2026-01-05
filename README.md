@@ -24,11 +24,6 @@
 <img src="https://github-readme-stats-941kjws-projects.vercel.app/api/top-langs?username=941kjw&locale=en&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=941kjw&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 <div align="center">
 
