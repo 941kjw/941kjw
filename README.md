@@ -97,8 +97,18 @@
 
 <br/>
 
-### 🎵 FlatMusic - AI 기반 음악 전사 / 채점 및 피드백 서비스
-**2023.02 ~ 2024.10 | Backend Developer / Infra**
+### 🎵 FlatMusic / Arpe - AI 기반 음악 전사·연습 채점 및 피드백 서비스
+**2026.06 ~ 현재 | Backend Developer (정규직)**
+
+`Java 25` `Spring Boot 4.1` `AWS` `RabbitMQ` `Redis` `MySQL` `OpenAI` `FCM`
+
+- Apple·Google 스토어 검증과 Webhook 멱등 처리를 포함한 **IAP 구매·구독·크레딧 시스템** 개발
+- S3 Presigned URL, 영속 작업 상태, RabbitMQ를 활용한 **음원→악보 비동기 변환 파이프라인** 구현
+- 대용량 **AI 연습 리포트**의 배치 분할·길이 초과 재시도·실패 복구 흐름 구축
+- **Outbox 기반 FCM 알림** 재시도와 사용자별 알림 설정 기능 개발
+- 도메인 공개 계약과 ArchUnit 검증을 적용한 **모듈러 모놀리스** 구조 전환
+
+**2023.02 ~ 2024.10 | Backend Developer / Infra (외주)**
 
 `Spring Boot` `AWS` `RabbitMQ` `Redis` `MySQL`
 
@@ -113,8 +123,16 @@
 
 ## 💼 Work Experience
 
+### FlatMusic | Backend Developer
+**2026.06 ~ 현재 | 정규직**
+
+- Java 25·Spring Boot 4.1 기반 Arpe 백엔드 개발 및 운영
+- IAP 구매·구독·크레딧 원장의 멱등성, 동시성, 실패 복구 흐름 구현
+- 음원→악보 변환, AI 리포트, 알림 비동기 파이프라인 안정화
+- 모듈러 모놀리스 구조 전환과 ArchUnit 기반 아키텍처 경계 검증
+
 ### FlatMusic | Backend Developer / Infra
-**2023.02 ~ 2024.10**
+**2023.02 ~ 2024.10 | 외주**
 
 - AWS 클라우드 인프라 아키텍처 설계 및 운영
 - Spring Boot 기반 백엔드 서버 개발
